@@ -30,33 +30,17 @@
     </dependency>
 
     <dependency>
-      <groupId>org.apache.deltaspike.cdictrl</groupId>
-      <artifactId>deltaspike-cdictrl-api</artifactId>
-      <version>1.9.0</version>
-    </dependency>
-
-    <dependency>
-      <groupId>org.apache.deltaspike.cdictrl</groupId>
-      <artifactId>deltaspike-cdictrl-weld</artifactId>
-      <version>1.9.0</version>
-    </dependency>
-
-    <!-- https://mvnrepository.com/artifact/org.jboss.weld.se/weld-se-core -->
-    <dependency>
       <groupId>org.jboss.weld.se</groupId>
       <artifactId>weld-se-core</artifactId>
       <version>3.1.2.Final</version>
     </dependency>
 
-
-    <!-- https://mvnrepository.com/artifact/org.jboss.weld.servlet/weld-servlet-core -->
     <dependency>
       <groupId>org.jboss.weld.servlet</groupId>
       <artifactId>weld-servlet-core</artifactId>
       <version>3.1.2.Final</version>
     </dependency>
 
-    <!-- https://mvnrepository.com/artifact/org.jboss.weld/weld-spi -->
     <dependency>
       <groupId>org.jboss.weld</groupId>
       <artifactId>weld-spi</artifactId>
